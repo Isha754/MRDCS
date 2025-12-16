@@ -1,0 +1,8 @@
+
+build/
+
+logs/
+backup_storage.txt
+
+.DS_Store
+Thumbs.db
