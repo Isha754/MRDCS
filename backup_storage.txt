@@ -1,7 +1,0 @@
-seq=0, ts=1765923337, temp=21.2, sal=33.92, pol=6.47, shutdown=0
-seq=1, ts=1765923339, temp=14.04, sal=32.22, pol=20.68, shutdown=0
-seq=2, ts=1765923341, temp=16.9, sal=34.96, pol=17.26, shutdown=0
-seq=4, ts=1765923345, temp=29.91, sal=35.89, pol=24.78, shutdown=0
-seq=5, ts=1765923347, temp=11.9, sal=33.9, pol=8.48, shutdown=0
-seq=6, ts=1765923349, temp=19.97, sal=30.78, pol=9.43, shutdown=0
-seq=7, ts=1765923351, temp=18.75, sal=34.07, pol=17.13, shutdown=0
